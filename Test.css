@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+	padding-top:44px;
 }
 
 h1 {
@@ -9,7 +9,7 @@ h1 {
 a {
 	color: Grey;
 	text-decoration: none;
-	
+}
 p {
 	color: grey;
   font-size: 18px;
@@ -20,5 +20,5 @@ header {
    top: 0;
    left: 0;
    width: 100%;
-}
+ }
 
