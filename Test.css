@@ -2,19 +2,23 @@ body {
   background-color: lightblue;
 }
 
-
 h1 {
   color: grey;
   text-align: center;
 }
 a {
-	background-color: grey;
-	
-	color: white;
+	color: Grey;
 	text-decoration: none;
 	
-}
 p {
 	color: grey;
   font-size: 18px;
 }
+header {
+	background-color: lightblue;
+	position:fixed;
+   top: 0;
+   left: 0;
+   width: 100%;
+}
+
