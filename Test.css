@@ -1,24 +1,39 @@
 body {
-	padding-top:44px;
+	padding-top:25px;
+	background-color:white;
 }
 
 h1 {
   color: grey;
   text-align: center;
 }
+
 a {
 	color: Grey;
 	text-decoration: none;
+	padding: 10px 10px 1px 10px;
+	border-right: 1px solid darkblue;
+	border-bottom: 1px solid darkblue;
 }
+a:hover {
+	background-color: white;
+}
+
 p {
-	color: grey;
+	color: Grey;
   font-size: 18px;
+  //if i want to make it super readble but looks bad
+  //text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  padding: 0px 300px 0px 200px;
 }
+
 header {
-	background-color: lightblue;
+	background-color: #ade3ec;
 	position:fixed;
    top: 0;
    left: 0;
    width: 100%;
+   font-size: 25px;
+   
  }
 
